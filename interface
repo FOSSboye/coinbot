@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>coinbot</title>
+	</head>
+	<body>
+		<input type="text" name="money"><br>
+		<h1>Generic Landing Page</h1>
+		<p>Welcome to the website of Anthony Ozerov!</p>
+		<div></div>
+		<p>I am trying to learn how to use Vim and I am really slow at it.</p>
+		<p>That's why there is pretty much nothing here.</p>
+	</body>
+</html>
